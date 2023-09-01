@@ -1,16 +1,15 @@
 # Ping-Pong
+
 ## Pong Game Image
 
 ![Pong Game](PingPong%20Game.png)
 
 ## Overview
 
-This is a game created using C++ and the SDL2 library. The game showcases basic game development principles, particularly the use of Object-Oriented Programming (OOP) to structure the code. 
+This is a game created using C++ and the SDL2 library. The game showcases basic game development principles, particularly the use of Object-Oriented Programming (OOP) to structure the code.
 
 - **Encapsulation**: The game logic and rendering are encapsulated within the `Game` class, providing a clean separation of concerns.
-
 - **Abstraction**: The game abstracts complex SDL operations into simple methods, making the code more readable and maintainable.
-
 - **Inheritance**: While not explicitly used in this example, OOP allows for easy extension of the codebase. Additional features and objects can be inherited from base classes if desired.
 
 ## Features
@@ -23,7 +22,7 @@ This is a game created using C++ and the SDL2 library. The game showcases basic 
 
 - **C++**: The programming language used for game development.
 - **SDL2**: The Simple DirectMedia Layer 2 library is used for window management and rendering.
-- **Visual Studio Code**: A lightweight code editor for development.
+- **Visual Studio**: The integrated development environment (IDE) used for coding, debugging, and building the game.
 
 ## How to Play
 
